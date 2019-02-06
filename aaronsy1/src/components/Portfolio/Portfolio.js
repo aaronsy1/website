@@ -68,22 +68,7 @@ export default class Portfolio extends Component {
 
           </div>
 
-          <div className="row">
-            <div className="col-md-6">
-              <h4>
-              <a href = "https://github.com/aaronsy1/giphy" target="_blank"><p className = "fa fa-github"> </p> </a>
-                Giphy</h4>
-                <p className = "thick" >App Description </p>
-              <p>Personal Project: Giphy app is used to showcase knowledge of basic API calls and Jquery to display results.</p>
-              <p className = "thick"> Technologies</p>
-             <p>Giphy API, Javascript, Jquery, Bootstrap</p>
-            </div>
-            <div className="col-md-6">
-              <a href="https://aaronsy1.github.io/giphy/" target="_blank">
-                <img alt="giphy " src="https://lh3.googleusercontent.com/_l5tzxPr9LR821Q-weDdQblv5HmooJhQN56MVZGT7aDU3YyQrG8TZVxDpWH5CrmahP6THA3sXuEKfLXkb6OdYhirr64EdDA6yO_2AjfXC-7pd682l3juo9WdVpj46RnhyvtfrZNCGPlLyvrSjqdbcKvH6t4Eq43BrqOTNcvRQk7PhdDe9CBt4EE6qVkgkSDjOR30wqkuArpzLxQKZp0l6co0jBK8xz9LaZ5Fmw1LimsxsvFL-b1IpoTFI6omLbMZ1nffYeqAacU0CYnbRWforWpBpcYFqLt86F9i19HWWg7RNffMfS1V-4wa_fAIRGzVV4CH_OhfMKM4Nlk5YAiCzwNyXhmoeC1cJj8sGjHKSYAzqPJP8i6BuKFD9QPkAIoIDC57waY8j7gM6GpNkaHY4Bx2c3_ZUrEXTcF7viRDQIhNv0d6h_xjsRn5gqwellUhnIxK4_NM_nQR1VsQC7HgNoh7RMjGolx11bahwdYsQVviK1-OabjzaI75A53h4dz3pIeldvxY-v5wjiq2oxAHYJ7ER4LIFOxHt1bNPSYPXBdpBkUnimswvt0vELJeUyocZXCOYH8ygg9-y4fe4OCMzs1f3526NokXxaecom2rYknjrAaCqGeHcT6v1llLZfPvl1VSJE-vVZPZWfQypf3m4adv=w1556-h1054-no"></img>
-              </a>
-            </div>
-          </div>
+
 
 
      
