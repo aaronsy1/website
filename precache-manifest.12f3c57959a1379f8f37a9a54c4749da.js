@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/website/static/js/1.4b000da9.chunk.js"
   },
   {
-    "revision": "674f50d287a8c48dc19ba404d20fe713",
-    "url": "/website/static/media/fontawesome-webfont.674f50d2.eot"
+    "revision": "b06871f281fee6b241d60582ae9369b9",
+    "url": "/website/static/media/fontawesome-webfont.b06871f2.ttf"
   },
   {
     "revision": "72c0eeb802a14a045b95",
     "url": "/website/static/js/2.72c0eeb8.chunk.js"
   },
   {
-    "revision": "b06871f281fee6b241d60582ae9369b9",
-    "url": "/website/static/media/fontawesome-webfont.b06871f2.ttf"
+    "revision": "674f50d287a8c48dc19ba404d20fe713",
+    "url": "/website/static/media/fontawesome-webfont.674f50d2.eot"
   },
   {
     "revision": "498e18ce1e49c333e563",
