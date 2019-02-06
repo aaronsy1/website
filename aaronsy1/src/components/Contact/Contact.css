@@ -1,0 +1,49 @@
+@fontface {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Roboto')
+  }
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p{
+    margin: 0px;
+}
+
+.contactContainer{
+    width: 100%;
+    height:40vh;
+    display: inline-block;
+    background-color: white;
+    position: absolute;
+    bottom: 0%;
+}
+
+.gmail {
+    padding-top: -5px;
+}
+@media screen and (min-width: 980px){
+
+    .contactContainer{
+   
+        width: 50%;
+      height:105vh;
+      display: inline-block;
+      background-color: white;
+      position: absolute;
+      left: 0%;
+    
+    }
+
+    .email{
+        display: flex;
+        height: 100vh;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+}
+

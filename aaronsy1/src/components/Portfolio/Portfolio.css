@@ -1,0 +1,29 @@
+@fontface {
+    font-family: 'Roboto', sans-serif;
+    src: url('https://fonts.googleapis.com/css?family=Roboto')
+  }
+*{
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.projects{
+    overflow: scroll;
+    height: 93vh;
+}
+
+.thick{
+    font-weight: bold;
+}
+
+
+h1{
+    border-bottom: 1px solid;
+}
+
+img{
+    width: 100%;
+    padding: 10px;
+}
+
+
