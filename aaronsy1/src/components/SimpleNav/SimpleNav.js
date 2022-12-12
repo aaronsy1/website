@@ -14,7 +14,7 @@ export default class SimpleNav extends Component {
             <li> | </li>
             <NavLink to ={process.env.PUBLIC_URL + '/portfolio'}><li>Portfolio</li></NavLink>
             <li> | </li>
-            <a href = "https://drive.google.com/file/d/1O2PlpEjEir0VYjDynNGClIcgZ_KyWxkN/view?fbclid=IwAR0MAA7WJp0zWEtgaf_iqdg2VIP6_nKWy8l-CGBFNU26-uaf9pTzpJAC9wI" target="_blank">
+            <a href = "https://docs.google.com/document/d/10Gs5YzztTW4sTTJTgeGcQ4xlWpLZPSGuRVqtEA1Se38/edit?usp=sharing" target="_blank">
             <li > Resume
             </li>
             </a>

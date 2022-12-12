@@ -15,15 +15,14 @@ export default class Portfolio extends Component {
           <div className="row">
             <div className="col-md-6">
               <h4>
-              <a href = "https://github.com/rs01247/RENTR-App" target="_blank"><p className = "fa fa-github"> </p> </a>
-                Rentr App
+              <a href = "https://github.com/aaronsy1/hangman" target="_blank"><p className = "fa fa-github"> </p> </a>
+                Hangman App
               </h4>
-              <p className = "thick"> Guest Account</p>
-              <p>email:test@gmail.com pw:test1</p>
+            
               <p className = "thick" >App Description </p>
-              <p>Group project: Rentr is used to connect people who want to loan out items to people in their area and to also find items to rent in their respective area.</p>
+              <p>A Persona themed Hangman game where you are limited to 10 letter guesses in order to find out who the secret character is.</p>
               <p className = "thick"> Technologies</p>
-             <p>User Auth, Google Maps API, MYSQL, React</p>
+             <p>Javascript, BootStrap, HTML, CSS</p>
             </div>
             <div className="col-md-6">
               <a href="https://limitless-thicket-78191.herokuapp.com" target="_blank">
